@@ -1,0 +1,3 @@
+netsh wlan
+netsh wlan show
+netsh wlan show wireless
